@@ -58,7 +58,7 @@ table {
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0 auto;
-  outline: 1px solid lightskyblue;
+  /* outline: 1px solid lightskyblue; */
 }
 
 body {
